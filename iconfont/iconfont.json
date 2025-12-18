@@ -1,0 +1,86 @@
+{
+  "id": "5035570",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8776692",
+      "name": "message",
+      "font_class": "icon-test1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8776842",
+      "name": "search",
+      "font_class": "icon-test2",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8777131",
+      "name": "calculator",
+      "font_class": "icon-test3",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "8777251",
+      "name": "customer_service",
+      "font_class": "icon-test4",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8777492",
+      "name": "like",
+      "font_class": "icon-test5",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8777493",
+      "name": "like_filled",
+      "font_class": "icon-test6",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8777510",
+      "name": "arrow_left",
+      "font_class": "icon-test7",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8777512",
+      "name": "arrow_right",
+      "font_class": "icon-test8",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "34452796",
+      "name": "cart-empty",
+      "font_class": "cart-empty",
+      "unicode": "e826",
+      "unicode_decimal": 59430
+    },
+    {
+      "icon_id": "15838471",
+      "name": "eye-close",
+      "font_class": "eye-close",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
